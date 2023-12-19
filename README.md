@@ -2,4 +2,4 @@ Fullstack GPT
 
 env scripts activate.bat
 
-1. Model IO - CD ......Last Challenge
+1. Model IO - CD ......Last Challenge..Done
